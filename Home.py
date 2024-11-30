@@ -11,8 +11,7 @@ with col1:
 with col2:
     st.title("Obiri-Ibe Stephen")
     content = """
-    Hello! I'm a passionate Business Information Technology student at JAMK University of Applied Sciences Jyväskylä and I'm currently diving deep into the world of Python programming. My academic background has provided me with a good foundation in technology and business integration, and I am now equipping myself with the skills to thrive in the evolving tech industry.
-I’m currently focused on mastering Python, where I’m exploring its applications in data analysis, automation, and web development. My enthusiasm for learning and problem-solving drives me to create innovative solutions that bridge the gap between technology and real-world challenges.
+    I am currently a Business Information Technology student at JAMK University of Applied Sciences with a passion for Python programming and a focus on data analysis, automation, and web development. Combining my technical skills with a business-oriented mindset, I aim to create innovative solutions that bridge the gap between technology and real-world challenges. I’m committed to continuous learning and excited to contribute to impactful projects in the evolving tech industry.
     """
     st.info(content)
 
